@@ -1,5 +1,4 @@
-# komari-install
-lite安装
+
 #!/bin/bash
 
 set -Eeuo pipefail
